@@ -28,6 +28,16 @@ if(num === 1){
 // тернарний оператор / if-else
 (num === 50) ? console.log('Expression is true') : console.log('Expression is false')
 
+    let a = 1;
+    let b = 2;
+    let c = 3;
+
+    if(a>b){
+        if(a<c){
+            console.log('a has the middle value');
+             
+        }
+    }
 
 // switch-case
 
